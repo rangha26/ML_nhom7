@@ -1,0 +1,12 @@
+/workdir
+/test_images
+/train_images
+*.zip
+*.pkl
+*.csv
+*.pt
+*.pyc
+
+/venv
+/cache_dir
+/dataset
